@@ -39,11 +39,11 @@ Here is what you should record in your notes:
 -   Record at least one time when your program didn\'t compile.
 
     -   What compilation errors did you get?
-
+varable has not yet been initiated
     -   What is your process for figuring out the problem with your code? Describe the resources or strategies you used in this process.
-
+i had to find the variable that hadn't been initiated and initiate it 
     -   What is the solution to the bug? That is, what do you need to fix about your code to make it compile?
-
+set it to a value
 You do not need to turn in all of your debugging notes, but you will need to answer questions about your debugging process in your Reflection.
 
 Create a README.md in your repository which includes your debugging notes
